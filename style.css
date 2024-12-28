@@ -38,3 +38,9 @@
   #root, #__next {
     isolation: isolate;
   }
+
+  main {
+    display: grid;
+    margin: 0;
+    padding: 0;
+  }
